@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+[![Join the chat at https://gitter.im/developers-november-2016/Lobby](https://badges.gitter.im/developers-november-2016/Lobby.svg)](https://gitter.im/developers-november-2016/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - November 9-10, 2016
 - Facilitators:
   - Cynthia Rich (@crichID)
