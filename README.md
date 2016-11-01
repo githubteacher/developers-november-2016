@@ -13,6 +13,10 @@ Join us on Gitter to get help and answers to your questions: [![Join the chat at
 - [GitHub for Developers Manual](github-for-developers-student-manual.pdf)
 - [git-scm](https://git-scm.com)
  
+## After Class
+
+Please take our short survey and let us know what you thought of today's class: https://goo.gl/US2sKk
+
 ## Scripts for Adding Files 
 
 You will need these on day 2, so keep them handy :wink:
