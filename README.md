@@ -1,12 +1,13 @@
 # GitHub for Developers
 
-[![Join the chat at https://gitter.im/githubteacher/developers-november-2016](https://badges.gitter.im/githubteacher/developers-november-2016.svg)](https://gitter.im/githubteacher/developers-november-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 - November 9-10, 2016
 - Facilitators:
   - Cynthia Rich (@crichID)
   - Briana Swift (@brianamarie)
 
+## Talk to us
+
+Join us on Gitter to get help and answers to your questions: [![Join the chat at https://gitter.im/githubteacher/developers-november-2016](https://badges.gitter.im/githubteacher/developers-november-2016.svg)](https://gitter.im/githubteacher/developers-november-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## Resources
 
 - [GitHub for Developers Manual](github-for-developers-student-manual.pdf)
