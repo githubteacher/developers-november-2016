@@ -7,3 +7,5 @@
 ### Things to do
 - Visit the Concentration Camp Memorial Site
 - Go to the old town & castle
+
+This is an arbitrary change for testing purposes.
