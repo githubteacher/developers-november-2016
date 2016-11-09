@@ -10,3 +10,7 @@
 # God keep our land glorious and free!
 # O Canada, we stand on guard for thee.
 # O Canada, we stand on guard for thee.
+
+
+- [ ] Remember to apologize.
+- [ ] Heil Trump.
