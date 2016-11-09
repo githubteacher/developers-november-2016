@@ -2,5 +2,11 @@
 
 ### Places to eat
 
+- Libertine Social
+- Giada
+- CraftKitchen 
+
 ### Things to do
 
+- Las Vegas Speed
+- Mystere
