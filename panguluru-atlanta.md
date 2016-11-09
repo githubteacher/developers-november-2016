@@ -2,5 +2,6 @@
 
 ### Places to eat
 
+ - Chad Thai
 
 ### Things to do
